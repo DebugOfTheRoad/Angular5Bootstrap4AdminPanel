@@ -2,7 +2,7 @@
 
 Simple Dashboard Admin App built using Angular 5 and Bootstrap 4
 
-## [Demo](http://rawgit.com/start-angular/SB-Admin-BS4-Angular-5/master/dist/)
+## [Demo](https://raghav-rosberg.github.io/Angular5Bootstrap4AdminPanel)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
