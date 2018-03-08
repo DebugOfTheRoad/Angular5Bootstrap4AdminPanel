@@ -4,7 +4,7 @@ Simple Dashboard Admin App built using Angular 5 and Bootstrap 4
 
 ## [Demo](https://raghav-rosberg.github.io/Angular5Bootstrap4AdminPanel)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.1.
 
 ### Introduction
 Provides fast, reliable and extensible starter for the development of Angular projects.
